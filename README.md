@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/priyanka kothari" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
 <a href="https://fb.com/priyanka kothari" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
 <a href="https://www.codechef.com/users/priyanka751" target="blank"> &nbsp; <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="priyanka751" height="30" width="40" /> &nbsp; </a>
-<a href="https://www.leetcode.com/priyanka kothari" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
+<a href="https://leetcode.com/Priyanka_Kothari/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanka kothari" height="30" width="40" /> &nbsp; </a>
 <a href="https://auth.geeksforgeeks.org/user/coderocks751/practice/" target="blank"> &nbsp; <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="coderocks" height="30" width="40" /> &nbsp; </a>
 </p>
 
