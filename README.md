@@ -11,7 +11,7 @@
 
 - 🌱 Learning **Data Structure and Alogorithm**
 
-- 🌱 Participatec in **CodeChef Contests**
+- 🌱 Participate in **CodeChef Contests**
 
 - 📫 How to reach me **priyankakothari751@gmail.com**
 
