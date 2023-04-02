@@ -1,4 +1,4 @@
-[![MasterHead](https://www.thebedfordcitizen.org/wp-content/uploads/2016/10/Girls-Who-Code.jpg)](https://priyanka001tech.github.io)
+[![MasterHead](https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX56730747.jpg)](https://priyanka001tech.github.io)
 
 <h1 align="center">Hi 👋, I'm Priyanka</h1>  
 <h3 align="center">A passionate web developer from India</h3>
